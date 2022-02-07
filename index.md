@@ -72,14 +72,14 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 <strong>The University of Arkansas' participation in the Carpentries is sponsored by the <a href= "https://libraries.uark.edu">University of Arkansas Libraries</a></strong>
 
 <h2>Register Now!</h2>
-<img src = "images/DARTNEW3.png">
+<img src = "assets/img/DARTNEW3.png">
 <p>Please select the class of your choice. </p>
 <div class="row">
 <div class="col-md-8">
   <table>
 <table class="table table-striped">
 <tr> <td>April 15, 2022 1:00-4:00pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
-<a id = "s_lc_event_7732968" href="https://uark.libcal.com/calendar/Data/2022-02-15-UNIX">Introduction to Unix Shell </a>
+<a id = "s_lc_event_7732968" href="https://uark.libcal.com/calendar/Data/2022-02-15-Unix">Introduction to Unix Shell </a>
 <!-- Below is optional element styling  //-->
   <style>
 #s_lc_event_7732968 {
